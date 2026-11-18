@@ -1,4 +1,4 @@
-Furniture Store Ecosystem
+# Furniture Store Ecosystem
 
 A comprehensive, full-stack furniture e-commerce project. This repository is a monorepo containing three integrated applications: a customer storefront, an administration dashboard, and a backend API. Together, they provide a complete shopping experience and store management system.
 
