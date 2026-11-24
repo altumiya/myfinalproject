@@ -43,7 +43,7 @@ MongoDB (Running locally on mongodb://127.0.0.1:27017/ or via MongoDB Atlas)
 First, clone the entire repository:
 
 Bash
-git clone [https://github.com/yourusername/YOUR-NEW-REPO-NAME.git](https://github.com/yourusername/YOUR-NEW-REPO-NAME.git)
+git clone [https://github.com/altumiya/myfinalproject.git](https://github.com/yourusername/YOUR-NEW-REPO-NAME.git)
 cd YOUR-NEW-REPO-NAME
 1. API Server Setup (/server)
 The API exposes customer routes under /api/web and administration routes under /api/admin. It also serves uploaded images from /uploads/....
